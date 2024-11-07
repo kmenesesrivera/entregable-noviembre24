@@ -1,0 +1,7 @@
+# Exclusiones
+/node_modules/
+/build/
+/dist/
+*.log 
+.vscode/
+package-lock.json 
